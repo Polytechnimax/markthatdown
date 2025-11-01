@@ -5,11 +5,18 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12, <3.13"
 dependencies = [
+    "accelerate>=1.11.0",
     "ipykernel>=7.1.0",
     "jupyter>=1.1.1",
     "layoutparser>=0.3.4",
+    "mdit-py-plugins>=0.5.0",
     "paddleocr>=3.3.1",
     "pdfplumber>=0.11.7",
     "pymupdf>=1.26.5",
     "pytesseract>=0.3.13",
+    "sacremoses>=0.1.1",
+    "sentencepiece>=0.2.1",
+    "torch>=2.9.0",
+    "transformers>=4.57.1",
+    "translate-md>=0.0.1",
 ]
