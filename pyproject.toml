@@ -1,5 +1,5 @@
 [project]
-name = "markdownthis"
+name = "markthatdown"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -9,6 +9,7 @@ dependencies = [
     "ipykernel>=7.1.0",
     "jupyter>=1.1.1",
     "layoutparser>=0.3.4",
+    "marker-pdf>=1.10.1",
     "mdit-py-plugins>=0.5.0",
     "paddleocr>=3.3.1",
     "pdfplumber>=0.11.7",
